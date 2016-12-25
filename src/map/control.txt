@@ -1,0 +1,11 @@
+	 Control
+
+
+W: UP
+S: DOWN
+A: LEFT
+D: EIGHT
+
+Enter: Select
+P: Pause/ UnPause
+Q: Quit Game
